@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I’m a detail-driven data analyst who helps busin
 ---
 
 ## 🏆 Certifications
+- Certified Google Data Analytics
 - Certified Belajar Power BI Mastery E-Learning
 - Certified Data Analytics with Tableau
 - Certified Data Analytics with Microsoft SQL Server
